@@ -1,7 +1,7 @@
 <h1 align="center">I really don't know</h1>
 
 <p align="center">
-	<b>Welcome to my page!</b>
+	<b>does anyone even read this?</b>
 	<br><br>
 	Hi, I’m @the-random-unknown<br>
 	I’m interested in C++, Linux, game development, game engines<br>
